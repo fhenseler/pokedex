@@ -9,5 +9,5 @@
 - Data for the cards fetched from https://pokeapi.co/
 - Search function
 - Dark mode toggle
-- React Hooks (useEffect, useContext, useState)
+- React Hooks
 - Responsive Design
