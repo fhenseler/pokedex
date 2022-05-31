@@ -4,6 +4,6 @@
 
 # Features
 
-- Cards including data for each pokemon fetched from https://pokeapi.co/
+- Data for the cards fetched from https://pokeapi.co/
 - Search function
 - Dark mode toggle
